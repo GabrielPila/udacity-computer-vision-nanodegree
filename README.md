@@ -23,4 +23,4 @@ It focuses on detecting the location of elements in movement.
 https://confirm.udacity.com/UU3GUECM
 
 ## Autor:
-- Gabriel Pila
+- Gabriel Pila (gabriel.pilah@pucp.edu.pe)
