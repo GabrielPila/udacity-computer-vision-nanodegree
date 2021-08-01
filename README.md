@@ -1,5 +1,5 @@
 # Udacity: Computer Vision Nanodegree
-This repository contains the topics that I learnt from Nanodegree in Computer Vision from Udacity.
+This repository contains the topics that I learnt from Nanodegree in Computer Vision from Udacity. 
 
 # Projects
 It mainly covers the three projects developed. 
